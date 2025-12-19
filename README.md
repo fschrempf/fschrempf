@@ -1,4 +1,5 @@
-[![Liberapay Donations](https://img.shields.io/liberapay/gives/frsc.svg?logo=liberapay)](https://liberapay.com/frsc/)
+[![Liberapay Donations](https://img.shields.io/liberapay/gives/fri.sch.svg?logo=liberapay)](https://liberapay.com/fri.sch/)  
+[![Liberapay Donations](https://img.shields.io/liberapay/receives/fri.sch.svg?logo=liberapay)](https://liberapay.com/fri.sch/)
 
 <!--
 **fschrempf/fschrempf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
