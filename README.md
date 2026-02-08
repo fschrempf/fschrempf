@@ -1,3 +1,5 @@
+Migrating to [Codeberg](https://codeberg.org/fschrempf)
+
 [![Liberapay Donations](https://img.shields.io/liberapay/gives/fri.sch.svg?logo=liberapay)](https://liberapay.com/fri.sch/)  
 [![Liberapay Donations](https://img.shields.io/liberapay/receives/fri.sch.svg?logo=liberapay)](https://liberapay.com/fri.sch/)
 
